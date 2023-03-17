@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>accoount</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c4fe6c00-b736-479d-bcf2-e6ed4448a304</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>John+Doe g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM</data>
+   <data>John+Doe g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM</data>
+   <data>John+Doe g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM</data>
+   <data>John+Doe g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM</data>
+   <data>John+Doe g3%2FDOGG74jC3Flrr3yH%2B3D%2FyKbOqqUNM</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>demo_usn</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>demo_pwd</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1001 Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe41df4e-05f0-4fed-9a5b-ca6b82d2811d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>156a322a-fa26-4281-9476-2cc4a2deaa05</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b1a926cb-dfe9-47fc-94b8-d57f66b2727f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>156a322a-fa26-4281-9476-2cc4a2deaa05</id>
+      <masked>false</masked>
+      <name>demo_usn</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b1a926cb-dfe9-47fc-94b8-d57f66b2727f</id>
+      <masked>false</masked>
+      <name>demo_pwd</name>
+   </variable>
+</TestCaseEntity>
